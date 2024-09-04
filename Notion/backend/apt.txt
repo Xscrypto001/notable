@@ -1,0 +1,3 @@
+sudo apt-get install tesseract-ocr
+python -m spacy download en_core_web_sm
+
